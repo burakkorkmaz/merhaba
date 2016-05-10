@@ -11,6 +11,6 @@
 #### Osman Akkuş
 **GitHub:** [osmanakkus](https://github.com/osmanakkus44)  
 **Twitter:** [osmanakkus](https://twitter.com/osmanakkus350)  
-**Interests:** C/C++, Processing, JAVA, Android Application Development
+**Interests:** C, C++
 
 ---
