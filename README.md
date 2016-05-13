@@ -7,3 +7,10 @@
 **Interests:** Python :sparkles:, JavaScript, Programming Languages, Games
 
 ---
+
+#### Osman Akkuş
+**GitHub:** [osmanakkus](https://github.com/osmanakkus44)  
+**Twitter:** [osmanakkus](https://twitter.com/osmanakkus350)  
+**Interests:** C, C++
+
+---
